@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="question_1">This statement is false</string>
+    <string name="question_2">The United States became a country before Italy.</string>
+    <string name="question_3">Test 3 (false)</string>
+    <string name="question_4">Test 4 (false)</string>
+    <string name="toast_correct">Right-e-O</string>
+    <string name="toast_incorrect">WRONG FOOL</string>
+</resources>
